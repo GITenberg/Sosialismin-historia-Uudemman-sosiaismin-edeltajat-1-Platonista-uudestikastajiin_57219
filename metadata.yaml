@@ -1,11 +1,16 @@
 _repo: Sosialismin-historia-Uudemman-sosiaismin-edeltajat-1-Platonista-uudestikastajiin_57219
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Kautsky, Karl
     gutenberg_agent_id: '49256'
     url: http://www.gutenberg.org/2009/agents/49256
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/57219#Sosialismin-historia-Uudemman-sosiaismin-edeltajat-1-Platonista-uudestikastajiin
 gutenberg_issued: '2018-05-27'
 gutenberg_type: Text
 identifiers:
